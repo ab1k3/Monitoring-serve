@@ -1,4 +1,3 @@
 # Monitoring-server
 Using code on this repo you can make Server-monitoring service
-Everying wrote in Dockerfile and Docker-compose file
-All code written in Python
+Repo written in python by using Dockerfile and Docker-compose file
