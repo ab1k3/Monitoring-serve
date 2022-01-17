@@ -1,0 +1,10 @@
+{
+    "name": "1C-server",
+    "ip": "192.168.1.85",
+    "notification": "disable",
+    "monitoring": "enable",
+    "index": 1,
+    "last_online": 1642442500,
+    "status": "online",
+    "last_discovery": 1642442500
+}

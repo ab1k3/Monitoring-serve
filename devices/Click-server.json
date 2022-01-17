@@ -1,0 +1,10 @@
+{
+    "name": "Click-server",
+    "ip": "192.168.1.77",
+    "notification": "disable",
+    "monitoring": "enable",
+    "index": 3,
+    "last_online": 1642442500,
+    "status": "online",
+    "last_discovery": 1642442500
+}
